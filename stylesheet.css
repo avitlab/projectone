@@ -246,7 +246,8 @@ table {
 }
 
 .footer-right span {
-  font-size: 12pt;
+  font-family: roboto;
+  font-size: 11pt;
   color: black;
   text-decoration-line: underline;
   text-decoration-thickness: 2px;
